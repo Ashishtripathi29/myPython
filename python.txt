@@ -1,0 +1,8 @@
+1.  random in a module of python
+    randInt is a function in python to return intiger it take two argument 1st starting point and 2nd ending point
+
+
+------------------------- import module -------------------------------
+1. import module_name  = importing module name here import is static key 
+2. form module_name import thing_of_module_name  => importing things from module
+3. from module_name import *   => importing all the things from the module
